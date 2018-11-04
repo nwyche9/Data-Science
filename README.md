@@ -8,4 +8,9 @@ weights_demo.py:
   check out the comments for more information
 
 Data_Handler.py:
-  a simple multiple linear regression model that takes some data from an api to calculate whether or not a stock will increase or decrease.   This is file that does all of the data preparation to ensure the input data can actually be used by the model.
+     This is file that does all of the data preparation to ensure the input data can actually be used by the model multiple linear 
+     regression model.
+     
+ Predictor.py:
+    A simple multiple linear regression model that takes some data from an api to calculate whether or not a stock will increase or
+    decrease.
