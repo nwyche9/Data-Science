@@ -9,4 +9,8 @@ weights_demo.py:
 
 clustering.py:
   a simple clustering model for text mining.
-  checkout the comments for more information
+  check out the comments for more information
+
+Logistic_Regression_Project.py:
+  a logistic regression model trained off of advertising data
+   check out the comments for more informtion
