@@ -15,7 +15,7 @@ Logistic_Regression_Project.py:
   a logistic regression model trained off of advertising data
   check out the comments for more informtion
 
-Decision Tree and Random Forest
+Decision Tree and Random Forest.py:
   This is a Python project looking at both a Random Forest Model and a Decision Tree in order to compare the two.
   We use Pandas, Numpy, Sci-Kit Learn, Matplotlib and Seaborn.
   Check out the comments for more information
