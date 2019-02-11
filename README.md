@@ -19,3 +19,7 @@ Decision Tree and Random Forest.py:
   This is a Python project looking at both a Random Forest Model and a Decision Tree in order to compare the two.
   We use Pandas, Numpy, Sci-Kit Learn, Matplotlib and Seaborn.
   Check out the comments for more information
+
+K-Means Clustering:
+  A Python project where the k-Means clustering model is built and used to analyze unlabeled data. 
+  Check out the comments for more information.
