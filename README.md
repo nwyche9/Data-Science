@@ -27,3 +27,7 @@ K-Means Clustering:
 Recommender Systems:
   A Python project where a recommender system for displaying related movies was developed. 
   Check out the comments for more information. 
+
+Support Vector Machines:
+  A Python project where a Support Vector Machine model is developed utilizing the Iris dataset.
+  Check out the comments for more information
