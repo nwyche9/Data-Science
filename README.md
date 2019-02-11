@@ -23,3 +23,7 @@ Decision Tree and Random Forest.py:
 K-Means Clustering:
   A Python project where the k-Means clustering model is built and used to analyze unlabeled data. 
   Check out the comments for more information.
+
+Recommender Systems:
+  A Python project where a recommender system for displaying related movies was developed. 
+  Check out the comments for more information. 
