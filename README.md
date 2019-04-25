@@ -35,3 +35,7 @@ Support Vector Machines:
 Data Handler.py:
   A Python script to handle/manipulate data as needed.
   Check out the comments for more informaiton
+  
+Predictor.py:
+  A Python script that implements a Linear Regression model.
+  Check out the comments for more information
