@@ -31,3 +31,7 @@ Recommender Systems:
 Support Vector Machines:
   A Python project where a Support Vector Machine model is developed utilizing the Iris dataset.
   Check out the comments for more information
+  
+Data Handler.py:
+  A Python script to handle/manipulate data as needed.
+  Check out the comments for more informaiton
