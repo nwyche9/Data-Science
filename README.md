@@ -39,3 +39,7 @@ Data Handler.py:
 Predictor.py:
   A Python script that implements a Linear Regression model.
   Check out the comments for more information
+  
+My_Recommender.py:
+  My recommendation system written in the Python programming language.
+  Check out the comments for more informaiton
